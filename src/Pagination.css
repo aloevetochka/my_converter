@@ -1,0 +1,24 @@
+.page-btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #014d69;
+  border: 1px solid #014d69;
+  border-radius: 3px;
+  width: 21px;
+  height: 21px;
+  align-items: center;
+  margin: 1px;
+  font-size: 13px;
+  color: #f0f4f9;
+}
+
+.page-btn:hover,
+.activePage {
+  background-color: #dadda5;
+  color: black;
+}
+
+.pagination {
+  flex-wrap: wrap;
+}

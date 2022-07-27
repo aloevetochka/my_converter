@@ -1,0 +1,6 @@
+.input-custom,
+.input-custom:focus,
+.select-custom {
+  background-color: #f0f4f9;
+  border: #f0f4f9;
+}

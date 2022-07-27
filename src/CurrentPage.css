@@ -1,0 +1,10 @@
+.list-custom {
+  border-radius: 5px;
+}
+.li-custom {
+  background-color: #f0f4f9;
+}
+.li-custom:hover {
+  cursor: default;
+  background-color: #dadda5;
+}
